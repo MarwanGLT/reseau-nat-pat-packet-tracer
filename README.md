@@ -51,7 +51,10 @@ La réponse fait le chemin inverse : R1 retrouve dans sa table NAT que le port 6
 
 ## Fichiers
 
-Les maquettes Packet Tracer (`.pkt`) des différentes étapes sont dans le dossier `packet-tracer/`.
+Les maquettes Packet Tracer (`.pkt`) sont dans le dossier [`packet-tracer/`](packet-tracer/) :
+
+- `tp-nat-001/` : les étapes 1 à 3 de ce TP (interfaces et routage statique, puis WAN simulé) ;
+- `verysmart/` : la maquette VerySmart, réalisée lors d'une évaluation en octobre (étapes 1 et 2).
 
 ---
 Marwan Goulit · [Portfolio](https://marwanglt.github.io)
